@@ -7,8 +7,8 @@ a simple calendar application that allows a user to save events for each hour of
 using the Day.js library to work with date and time.
 ## Image
 
-![image](https://github.com/SkylarHammond55/Quiz-Code/blob/main/Assets/images/quiz%20screenshot.png)
+![image](https://github.com/SkylarHammond55/Work-Day-Scheduler/blob/main/assets/images/Daily%20planner.png)
 
 ## Link
 
-https://skylarhammond55.github.io/Quiz-Code/
+https://skylarhammond55.github.io/Work-Day-Scheduler/
